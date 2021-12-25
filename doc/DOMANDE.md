@@ -7,21 +7,21 @@
 - Benefici di TypeScript
 - TypeScript con Visual Studio Code
 
-
+* C'è differenza tra i termini "sistema statico di tipi" e "tipizzazione statica"?
 
 ## TIPI BASE
 
-- I tipi in Javascript e in TypeScript 
-- Sintassi per i tipi
-- Tipizzazione implicita 
-- Duck typing
-- Arrays
-- Il tipo "any” Casting esplicito 
-- Enumeratori
-- Le funzioni Tipi di ritorno
+- I tipi in Javascript e in TypeScript **ok**
+- Sintassi per i tipi **ok**
+- Tipizzazione implicita **ok**
+- Duck typing **VEDERE SIGNIFICATO ESATTO vs tipizzazzione implicita**
+- Arrays **ok**
+- Il tipo "any” Casting esplicito [VEDERE]
+- Enumeratori [VEDERE]
+- Le funzioni Tipi di ritorno [VEDERE]
 
 ## CONCETTI AVANZATI RIGUARDANTI I TIPI 
-
+[?] Rivedere i predicati
 - "Unione” di tipi (Union types) 
 - "Sentinelle” per i tipi (Type guards) 
 - Alias per i tipi
